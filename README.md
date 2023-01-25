@@ -17,7 +17,7 @@ The URL for the API is
 `https://api.giphy.com/v1/gifs/search?q=YOUR QUERY HERE&api_key=dc6zaTOxFJmzC&rating=g`
 
 While the above API key _may_ work, we recommend creating your own API key by
-following the [instructions on Giphy's developer site][create_key]. Creating a
+following the [instructions on Giphy's sitedeveloper ][create_key]. Creating a
 key is free and only requires an account. Using your own key will prevent any
 potential rate limiting if other students are also working on this lesson.
 
